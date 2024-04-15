@@ -6,19 +6,11 @@
 ##### Header 5
 ###### Header 6
 
-1. 一号
-   - 这
-   - 是
-   - 一
-   - 号
-3. 二号
-4. 三号
-5. 四号
+<u>这是一段带下划线的文字</u>
+<mark>这是一段高亮文字</mark>
+<font color=red>这是一段红色文字</font>
+<font face="黑体">这是一段黑体文字</font>
+<font color=red face="黑体">这是一段红色黑体文字</font>
 
-` ![网络图片](https://img-blog.csdnimg.cn/1a37bb737a9846deb658a8b48bf5344b.png) `
 
-[一个网址](https://www.baidu.com "跳转至网页")
-[文件](./示例.md "跳转至本地 示例.md 文件")
-[锚点](#1-一号 "跳转至当前文档 1.3 列表 对应的锚点")
-
-这是注记的语法 [^1]
+                           
